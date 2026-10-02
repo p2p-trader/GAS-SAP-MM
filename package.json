@@ -1,0 +1,11 @@
+{
+  "name": "erp-mm-inventory-management",
+  "version": "1.1.0",
+  "private": true,
+  "description": "ERP·MM — SAP MM-style Inventory Management Suite for Google Apps Script",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e \"console.log('Build complete')\""
+  }
+}
